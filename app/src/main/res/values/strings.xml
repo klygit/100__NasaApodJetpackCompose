@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NasaApodJetpackCompose</string>
+    <string name="error_msg__loading_photos">Error ...</string>
+</resources>
